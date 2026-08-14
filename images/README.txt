@@ -11,3 +11,5 @@ In een .qmd-bestand voeg je een foto bijvoorbeeld zo toe:
 ![KOORNAAM tijdens het kerstconcert in PLAATSNAAM](images/koornaam-kerstconcert-2026.jpg)
 
 De tekst tussen [ ] is de alt-tekst voor toegankelijkheid en zoekmachines.
+
+test
