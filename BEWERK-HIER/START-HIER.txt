@@ -1,0 +1,36 @@
+WEBSITE AANPASSEN — KORTE HANDLEIDING
+
+Je hoeft alleen deze map (BEWERK-HIER) en eventueel de map images te gebruiken.
+De andere bestanden zijn technisch en hoef je niet aan te raken.
+
+1. Algemene gegevens wijzigen
+   Open ALGEMENE-GEGEVENS.yml op GitHub.
+   Klik rechtsboven op het potloodje (Edit this file).
+   Verander alleen de tekst tussen de aanhalingstekens.
+   Klik daarna op Commit changes.
+
+2. Tekst over het koor wijzigen
+   Open _OVER-ONS.qmd.
+   Klik op het potloodje.
+   Pas de gewone tekst aan.
+   Klik op Commit changes.
+
+3. Een optreden toevoegen of wijzigen
+   Open _OPTREDENS.qmd.
+   Klik op het potloodje.
+   Pas een bestaand optreden aan of kopieer het voorbeeldblok.
+   Klik op Commit changes.
+
+4. Foto's vervangen
+   Ga naar de map images.
+   De website gebruikt vaste namen zoals groepsfoto.jpg en dirigent.jpg.
+   Vervang deze bestanden door eigen foto's met dezelfde bestandsnaam.
+
+5. Na iedere Commit changes
+   GitHub bouwt de website automatisch opnieuw.
+   Meestal is de wijziging binnen enkele minuten online.
+
+BELANGRIJK
+- Verwijder geen dubbele punten in ALGEMENE-GEGEVENS.yml.
+- Laat de aanhalingstekens staan.
+- Raak _quarto.yml, styles.css en .github niet aan.

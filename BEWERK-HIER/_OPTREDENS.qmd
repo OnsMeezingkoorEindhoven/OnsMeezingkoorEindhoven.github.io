@@ -1,0 +1,27 @@
+## Aankomende optredens
+
+### Kerstconcert 2026
+
+**20 december 2026 · 15:00 · NAAM LOCATIE, PLAATSNAAM**
+
+Schrijf hier een korte beschrijving van het concert, het programma, eventuele gastmusici en informatie over kaartverkoop.
+
+<!--
+EEN NIEUW OPTREDEN TOEVOEGEN:
+Kopieer simpelweg het blok hierboven vanaf ### tot aan deze commentaarregel.
+Pas daarna titel, datum, locatie en tekst aan.
+-->
+
+## Eerdere optredens
+
+### Zomerconcert 2026
+
+**DATUM · LOCATIE**
+
+Schrijf hier een korte terugblik. Bijvoorbeeld welk programma jullie zongen, met wie jullie samenwerkten en wat bijzonder was aan het concert.
+
+### Kerstconcert 2025
+
+**DATUM · LOCATIE**
+
+Hier kan een oudere terugblik staan. Laat eerdere concerten gewoon staan; zo ontstaat vanzelf een mooi archief.

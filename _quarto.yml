@@ -7,8 +7,8 @@ project:
 lang: nl
 
 website:
-  title: "KOORNAAM"
-  description: "KOORNAAM is een zangkoor in PLAATSNAAM. Lees meer over ons koor, onze optredens en hoe je kunt komen meezingen."
+  title: "Koorwebsite"
+  description: "Website van een lokaal zangkoor met informatie over meezingen, contact en optredens."
   # Zodra je een eigen domein hebt, haal het hekje hieronder weg en vul je domein in:
   # site-url: "https://www.jouwdomein.nl"
   open-graph: true
@@ -30,7 +30,7 @@ website:
       - href: meezingen.qmd
         text: "Kom meezingen"
   page-footer:
-    left: "© KOORNAAM"
+    left: "Zangkoor"
     right: "Website gebouwd met Quarto"
   back-to-top-navigation: true
 

@@ -9,16 +9,13 @@ page-layout: full
 
 # Samen zingen. Samen muziek maken.
 
-**{{< var koornaam >}}** is een enthousiast koor uit {{< var plaats >}}. We zingen {{< var repertoire >}} en verwelkomen graag nieuwe zangers.
+**{{< var koornaam >}}** is een koor uit {{< var plaats >}}. {{< var korte_intro >}}
 
 [Kom een keer meezingen](meezingen.qmd){.btn .btn-primary .btn-lg} [Leer ons kennen](over-ons.qmd){.btn .btn-outline-primary .btn-lg}
 :::
 
 ::: {.hero-photo}
-<div class="photo-placeholder photo-placeholder-large">
-  <strong>HOOFDFOTO</strong><br>
-  Vervang dit vlak later door een mooie groepsfoto van het koor.
-</div>
+<img src="images/groepsfoto.jpg" alt="Groepsfoto van {{< var koornaam >}}" class="hero-image">
 :::
 :::
 
@@ -30,7 +27,7 @@ Of je nu al jaren zingt of voor het eerst in een koor wilt stappen: bij ons draa
 ::: {.feature-grid}
 ::: {.feature-card}
 ### 🎵 Ons repertoire
-We zingen {{< var repertoire >}}. Bekijk op de pagina **Over ons** wat voor muziek bij ons op de lessenaar staat.
+We zingen {{< var repertoire >}}.
 
 [Meer over ons →](over-ons.qmd)
 :::
@@ -44,7 +41,7 @@ Nieuwsgierig of het koor bij je past? Kom vrijblijvend een repetitie bijwonen of
 
 ::: {.feature-card}
 ### 🎭 Optredens
-Bekijk waar we binnenkort optreden en blader door foto's en herinneringen aan eerdere concerten.
+Bekijk waar we binnenkort optreden en lees terugblikken op eerdere concerten.
 
 [Bekijk optredens →](optredens.qmd)
 :::
@@ -55,7 +52,7 @@ Bekijk waar we binnenkort optreden en blader door foto's en herinneringen aan ee
 ::: {.recruitment-inner}
 ## Zin om mee te zingen?
 
-We repeteren iedere **{{< var repetitiedag >}} van {{< var repetitietijd >}}** in {{< var plaats >}}. Ervaring is mooi meegenomen, maar enthousiasme en plezier in zingen zijn minstens zo belangrijk.
+We repeteren iedere **{{< var repetitiedag >}} van {{< var repetitietijd >}}** in {{< var plaats >}}.
 
 [Ik wil een keer meezingen](meezingen.qmd){.btn .btn-light .btn-lg}
 :::
@@ -65,9 +62,9 @@ We repeteren iedere **{{< var repetitiedag >}} van {{< var repetitietijd >}}** i
 ## Een indruk van ons koor
 
 ::: {.gallery-grid}
-<div class="photo-placeholder"><strong>FOTO 1</strong><br>Bijvoorbeeld een concertfoto</div>
-<div class="photo-placeholder"><strong>FOTO 2</strong><br>Bijvoorbeeld een repetitiefoto</div>
-<div class="photo-placeholder"><strong>FOTO 3</strong><br>Bijvoorbeeld een groepsfoto</div>
+<img src="images/galerij-1.jpg" alt="{{< var koornaam >}} tijdens een optreden" class="gallery-image">
+<img src="images/galerij-2.jpg" alt="{{< var koornaam >}} tijdens een repetitie" class="gallery-image">
+<img src="images/galerij-3.jpg" alt="{{< var koornaam >}} als groep" class="gallery-image">
 :::
 
 <div class="center-link">[Bekijk onze eerdere optredens →](optredens.qmd)</div>

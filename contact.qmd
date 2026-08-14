@@ -26,20 +26,16 @@ Wil je een keer meezingen, heb je een vraag over een optreden of wil je contact 
 
 **{{< var repetitielocatie >}}**  
 {{< var adres >}}
-
-Voeg hier eventueel een link toe naar Google Maps of OpenStreetMap zodra het echte adres is ingevuld.
 :::
 :::
 
 ## Sociale media
 
-Als jullie Facebook, Instagram of YouTube gebruiken, zet hier de links. Bijvoorbeeld:
+De links voor Instagram, Facebook en YouTube kun je invullen in `BEWERK-HIER/ALGEMENE-GEGEVENS.yml`. Laat ongebruikte velden leeg.
 
-- [Instagram](https://www.instagram.com/)
-- [Facebook](https://www.facebook.com/)
-- [YouTube](https://www.youtube.com/)
-
-Verwijder platforms die jullie niet gebruiken.
+- Instagram: {{< var instagram >}}
+- Facebook: {{< var facebook >}}
+- YouTube: {{< var youtube >}}
 
 ## Voor nieuwe leden
 

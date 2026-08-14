@@ -24,6 +24,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Prepare editable choir data
+        run: cp BEWERK-HIER/ALGEMENE-GEGEVENS.yml _variables.yml
+
       - name: Render website
         run: quarto render
 

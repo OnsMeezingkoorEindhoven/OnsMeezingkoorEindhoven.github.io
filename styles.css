@@ -376,3 +376,21 @@ a:hover {
   object-fit: cover;
   border-radius: 28px;
 }
+
+/* Eenvoudig beheer: vaste foto-bestanden */
+.gallery-image {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 18px;
+  display: block;
+}
+
+.portrait-image {
+  width: 100%;
+  max-width: 360px;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 18px;
+  margin: 1.5rem 0 2rem;
+}
