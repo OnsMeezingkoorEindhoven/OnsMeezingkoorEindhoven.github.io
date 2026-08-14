@@ -1,0 +1,75 @@
+---
+title: false
+description: "Zingen bij {{< var koornaam >}} in {{< var plaats >}}. Ontdek ons koor, bekijk onze optredens en kom vrijblijvend een keer meezingen."
+page-layout: full
+---
+
+::: {.hero-section}
+::: {.hero-content}
+<p class="eyebrow">Zangkoor in {{< var plaats >}}</p>
+
+# Samen zingen. Samen muziek maken.
+
+**{{< var koornaam >}}** is een enthousiast koor uit {{< var plaats >}}. We zingen {{< var repertoire >}} en verwelkomen graag nieuwe zangers.
+
+[Kom een keer meezingen](meezingen.qmd){.btn .btn-primary .btn-lg} [Leer ons kennen](over-ons.qmd){.btn .btn-outline-primary .btn-lg}
+:::
+
+::: {.hero-photo}
+<div class="photo-placeholder photo-placeholder-large">
+  <strong>HOOFDFOTO</strong><br>
+  Vervang dit vlak later door een mooie groepsfoto van het koor.
+</div>
+:::
+:::
+
+::: {.content-band}
+## Welkom bij {{< var koornaam >}}
+
+Of je nu al jaren zingt of voor het eerst in een koor wilt stappen: bij ons draait het om samen muziek maken, plezier in zingen en werken aan mooie optredens.
+
+::: {.feature-grid}
+::: {.feature-card}
+### 🎵 Ons repertoire
+We zingen {{< var repertoire >}}. Bekijk op de pagina **Over ons** wat voor muziek bij ons op de lessenaar staat.
+
+[Meer over ons →](over-ons.qmd)
+:::
+
+::: {.feature-card}
+### 👥 Nieuwe leden welkom
+Nieuwsgierig of het koor bij je past? Kom vrijblijvend een repetitie bijwonen of direct een keer meezingen.
+
+[Zo werkt meezingen →](meezingen.qmd)
+:::
+
+::: {.feature-card}
+### 🎭 Optredens
+Bekijk waar we binnenkort optreden en blader door foto's en herinneringen aan eerdere concerten.
+
+[Bekijk optredens →](optredens.qmd)
+:::
+:::
+:::
+
+::: {.recruitment-band}
+::: {.recruitment-inner}
+## Zin om mee te zingen?
+
+We repeteren iedere **{{< var repetitiedag >}} van {{< var repetitietijd >}}** in {{< var plaats >}}. Ervaring is mooi meegenomen, maar enthousiasme en plezier in zingen zijn minstens zo belangrijk.
+
+[Ik wil een keer meezingen](meezingen.qmd){.btn .btn-light .btn-lg}
+:::
+:::
+
+::: {.content-band}
+## Een indruk van ons koor
+
+::: {.gallery-grid}
+<div class="photo-placeholder"><strong>FOTO 1</strong><br>Bijvoorbeeld een concertfoto</div>
+<div class="photo-placeholder"><strong>FOTO 2</strong><br>Bijvoorbeeld een repetitiefoto</div>
+<div class="photo-placeholder"><strong>FOTO 3</strong><br>Bijvoorbeeld een groepsfoto</div>
+:::
+
+<div class="center-link">[Bekijk onze eerdere optredens →](optredens.qmd)</div>
+:::

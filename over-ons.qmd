@@ -1,0 +1,63 @@
+---
+title: "Over ons"
+description: "Lees meer over {{< var koornaam >}}, ons zangkoor in {{< var plaats >}}, ons repertoire, onze repetities en onze dirigent."
+---
+
+# Over {{< var koornaam >}}
+
+{{< var koornaam >}} is een zangkoor uit **{{< var plaats >}}**. Hier kun je in twee of drie alinea's vertellen hoe het koor is ontstaan, hoeveel leden jullie ongeveer hebben en wat jullie als koor typeert.
+
+Vertel vooral concreet wat een nieuw lid kan verwachten. Zijn jullie ambitieus, gezellig, projectmatig, klassiek georiënteerd, juist breed in repertoire, of een combinatie daarvan? Een persoonlijke en herkenbare beschrijving werkt beter dan algemene woorden als *gezellig* en *kwaliteit* zonder verdere uitleg.
+
+## Wat zingen we?
+
+Ons repertoire bestaat uit **{{< var repertoire >}}**.
+
+Je kunt hier bijvoorbeeld een korte lijst opnemen:
+
+- koorwerken van [componist / genre];
+- lichte muziek en arrangementen;
+- muziek rond kerst of andere jaarlijkse projecten;
+- stukken die jullie recent met veel plezier hebben uitgevoerd.
+
+## Onze repetities
+
+::: {.info-card}
+**Wanneer:** {{< var repetitiedag >}}, {{< var repetitietijd >}}  
+**Waar:** {{< var repetitielocatie >}}  
+**Adres:** {{< var adres >}}
+:::
+
+Tijdens een repetitie werken we aan [beschrijf hier de typische opbouw: inzingen, stemgroepen, repertoire, voorbereiding op concerten].
+
+## Onze dirigent
+
+### {{< var dirigent >}}
+
+Schrijf hier 100–150 woorden over de dirigent: achtergrond, muzikale interesses, ervaring en manier van werken met het koor.
+
+<div class="photo-placeholder portrait-placeholder"><strong>FOTO DIRIGENT</strong><br>Vervang door een portretfoto.</div>
+
+## Wat vinden wij belangrijk?
+
+::: {.feature-grid}
+::: {.feature-card}
+### Muzikaliteit
+Samen werken we gericht aan klank, samenzang en interpretatie.
+:::
+
+::: {.feature-card}
+### Plezier
+Een koor is ook een sociale plek. We vinden het belangrijk dat mensen zich welkom voelen.
+:::
+
+::: {.feature-card}
+### Optreden
+We werken gedurende het jaar toe naar concerten en andere optredens in {{< var plaats >}} en omgeving.
+:::
+:::
+
+::: {.callout-note appearance="simple"}
+## Nieuwsgierig geworden?
+Je hoeft niet eerst precies te weten of je lid wilt worden. [Kom gewoon een keer meezingen](meezingen.qmd).
+:::

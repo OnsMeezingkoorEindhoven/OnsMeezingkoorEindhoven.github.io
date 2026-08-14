@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - robots.txt
+
+lang: nl
+
+website:
+  title: "KOORNAAM"
+  description: "KOORNAAM is een zangkoor in PLAATSNAAM. Lees meer over ons koor, onze optredens en hoe je kunt komen meezingen."
+  # Zodra je een eigen domein hebt, haal het hekje hieronder weg en vul je domein in:
+  # site-url: "https://www.jouwdomein.nl"
+  open-graph: true
+  navbar:
+    pinned: true
+    collapse: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: over-ons.qmd
+        text: Over ons
+      - href: meezingen.qmd
+        text: Meezingen
+      - href: optredens.qmd
+        text: Optredens
+      - href: contact.qmd
+        text: Contact
+    right:
+      - href: meezingen.qmd
+        text: "Kom meezingen"
+  page-footer:
+    left: "© KOORNAAM"
+    right: "Website gebouwd met Quarto"
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,67 @@
+---
+title: "Meezingen"
+description: "Wil je zingen in een koor in {{< var plaats >}}? Kom vrijblijvend meezingen met {{< var koornaam >}} en maak kennis met het koor."
+---
+
+# Kom meezingen bij {{< var koornaam >}}
+
+Zoek je een **zangkoor in {{< var plaats >}}**? Nieuwe zangers zijn welkom om kennis te maken met {{< var koornaam >}}. De makkelijkste manier om te ontdekken of het koor bij je past, is een repetitie meemaken.
+
+<div class="cta-panel">
+<strong>Probeer het vrijblijvend.</strong><br>
+Stuur ons een bericht via <a href="mailto:{{< var email >}}">{{< var email >}}</a> en vertel kort dat je een repetitie wilt bijwonen.
+</div>
+
+## Hoe werkt het?
+
+::: {.steps-grid}
+::: {.step-card}
+<span class="step-number">1</span>
+### Neem contact op
+Mail naar [{{< var email >}}](mailto:{{< var email >}}) of gebruik de gegevens op onze contactpagina.
+:::
+
+::: {.step-card}
+<span class="step-number">2</span>
+### Kom naar een repetitie
+We repeteren op {{< var repetitiedag >}} van {{< var repetitietijd >}}.
+:::
+
+::: {.step-card}
+<span class="step-number">3</span>
+### Zing mee
+Maak kennis met je stemgroep, probeer het repertoire en ervaar de sfeer.
+:::
+:::
+
+## Praktische informatie
+
+| | |
+|---|---|
+| **Repetitiedag** | {{< var repetitiedag >}} |
+| **Tijd** | {{< var repetitietijd >}} |
+| **Locatie** | {{< var repetitielocatie >}} |
+| **Adres** | {{< var adres >}} |
+| **Contributie** | {{< var contributie >}} |
+
+## Veelgestelde vragen
+
+### Moet ik ervaring hebben met koorzang?
+
+Pas dit antwoord aan jullie situatie aan. Bijvoorbeeld: *Nee. Ervaring met zingen of noten lezen is handig, maar niet noodzakelijk. We vinden vooral motivatie en bereidheid om thuis af en toe te oefenen belangrijk.*
+
+### Moet ik auditie doen?
+
+Schrijf hier hoe jullie dit werkelijk aanpakken. Als er geen formele auditie is, zeg dat duidelijk. Als de dirigent na enkele repetities kort naar de stem luistert, leg dat laagdrempelig uit.
+
+### Welke stemmen zoeken jullie?
+
+Noem hier concreet de stemgroepen waarvoor jullie vooral nieuwe leden zoeken, bijvoorbeeld **sopranen, alten, tenoren en bassen**. Dit kun je gemakkelijk aanpassen wanneer de behoefte verandert.
+
+### Kan ik eerst vrijblijvend kennismaken?
+
+Ja. Neem vooraf even contact op, zodat we weten dat je komt en de juiste bladmuziek voor je klaar kunnen leggen.
+
+## Interesse?
+
+[Mail ons om een repetitie bij te wonen](mailto:{{< var email >}}){.btn .btn-primary .btn-lg}

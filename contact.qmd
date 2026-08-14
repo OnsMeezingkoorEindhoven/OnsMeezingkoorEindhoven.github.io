@@ -1,0 +1,46 @@
+---
+title: "Contact"
+description: "Neem contact op met {{< var koornaam >}} in {{< var plaats >}} over meezingen, concerten of andere vragen."
+---
+
+# Contact
+
+Wil je een keer meezingen, heb je een vraag over een optreden of wil je contact met het bestuur? Stuur ons gerust een bericht.
+
+::: {.contact-grid}
+::: {.contact-card}
+## Contactgegevens
+
+**E-mail**  
+[{{< var email >}}](mailto:{{< var email >}})
+
+**Telefoon**  
+[{{< var telefoon >}}](tel:{{< var telefoon >}})
+
+**Repetitieavond**  
+{{< var repetitiedag >}}, {{< var repetitietijd >}}
+:::
+
+::: {.contact-card}
+## Repetitielocatie
+
+**{{< var repetitielocatie >}}**  
+{{< var adres >}}
+
+Voeg hier eventueel een link toe naar Google Maps of OpenStreetMap zodra het echte adres is ingevuld.
+:::
+:::
+
+## Sociale media
+
+Als jullie Facebook, Instagram of YouTube gebruiken, zet hier de links. Bijvoorbeeld:
+
+- [Instagram](https://www.instagram.com/)
+- [Facebook](https://www.facebook.com/)
+- [YouTube](https://www.youtube.com/)
+
+Verwijder platforms die jullie niet gebruiken.
+
+## Voor nieuwe leden
+
+Wil je vooral weten hoe een eerste kennismaking werkt? Ga dan direct naar [**Meezingen**](meezingen.qmd).
