@@ -5,20 +5,19 @@
 # Laat de woorden links van de dubbele punt staan.
 
 koornaam: "Ons Meezingkoor Eindhoven"
-plaats: "PLAATSNAAM"
-regio: "REGIO"
+plaats: "Eindhoven"
+regio: "Woensel"
 
 # Korte beschrijving voor de homepage (1-2 zinnen)
 korte_intro: "Wij zijn een enthousiast koor dat met plezier samen zingt en regelmatig optreedt. Nieuwe zangers zijn van harte welkom."
 
 # Repetities
-repetitiedag: "WOENSDAG"
+repetitiedag: "Donderdag"
 repetitietijd: "20:00–22:00"
-repetitielocatie: "NAAM REPETITIELOCATIE"
-adres: "STRAAT 1, 1234 AB PLAATSNAAM"
-
+repetitielocatie: "'t Trefpunt"
+adres: "Belgiëplein 20, 5628 XJ Eindhoven"
 # Contact
-email: "info@jouwdomein.nl"
+email: "omkonsmeezingkooreindhoven@gmail.com"
 telefoon: "06 12 34 56 78"
 
 # Muziek en lidmaatschap
