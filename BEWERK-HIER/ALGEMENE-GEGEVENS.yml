@@ -6,7 +6,7 @@
 
 koornaam: "Ons Meezingkoor Eindhoven"
 plaats: "Eindhoven"
-regio: "Woensel"
+regio: "Eindhoven Noord"
 
 # Korte beschrijving voor de homepage (1-2 zinnen)
 korte_intro: "Wij zijn een enthousiast koor dat met plezier samen zingt en regelmatig optreedt. Nieuwe zangers zijn van harte welkom."
@@ -28,7 +28,7 @@ stemmen_gezocht: "sopranen, alten, tenoren en bassen"
 
 # Antwoorden voor potentiële nieuwe leden
 ervaring: "Ervaring met koorzang of noten lezen is handig, maar zeker niet noodzakelijk. Enthousiasme en plezier in zingen zijn het belangrijkst."
-auditie: "Er is geen formele auditie. Kom gerust eens kijken en als je wilt maag je direct meezingen."
+auditie: "Er is geen formele auditie. Kom gerust eens kijken en als je wilt mag je direct meezingen."
 
 # Sociale media. Laat een regel leeg tussen de aanhalingstekens als jullie die niet gebruiken.
 instagram: ""
