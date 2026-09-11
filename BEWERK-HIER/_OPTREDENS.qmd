@@ -2,9 +2,9 @@
 
 ### Kerstconcert 2026
 
-**20 december 2026 · 15:00 · NAAM LOCATIE, PLAATSNAAM**
+**23 december 2026 · 14.30 - 16.15 uur, Sint Annaklooster Antonius te Acht**
 
-Schrij hier een korte beschrijving van het concert, het programma, eventuele gastmusici en informatie over kaartverkoop.
+
 
 <!--
 EEN NIEUW OPTREDEN TOEVOEGEN:
@@ -12,7 +12,7 @@ Kopieer simpelweg het blok hierboven vanaf ### tot aan deze commentaarregel.
 Pas daarna titel, datum, locatie en tekst aan.
 -->
 
-## Eerdere optredens
+## 7 september 2026 - Wilgenhof Vitalis Eindhoven
 
 ### Zomerconcert 2026
 
