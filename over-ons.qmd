@@ -13,6 +13,8 @@ description: Kees meer over {{< var koornaam >}}, ons zangkoor in {{< var plaats
 **Wanneer:** {{< var repetitiedag >}}, {{< var repetitietijd >}}  
 **Waar:** {{< var repetitielocatie >}}  
 **Adres:** {{< var adres >}}
+**Koorleider:** {{< var koorleider >}}
+
 
 :::
 
