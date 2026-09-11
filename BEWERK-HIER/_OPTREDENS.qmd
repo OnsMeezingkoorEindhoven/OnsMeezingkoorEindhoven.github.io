@@ -4,7 +4,7 @@
 
 **20 december 2026 · 15:00 · NAAM LOCATIE, PLAATSNAAM**
 
-Schrijf hier een korte beschrijving van het concert, het programma, eventuele gastmusici en informatie over kaartverkoop.
+Schrij hier een korte beschrijving van het concert, het programma, eventuele gastmusici en informatie over kaartverkoop.
 
 <!--
 EEN NIEUW OPTREDEN TOEVOEGEN:
