@@ -1,6 +1,6 @@
 ---
 title: "Over ons"
-description: Kees meer over {{< var koornaam >}}, ons zangkoor in {{< var plaats >}}, ons repertoire, onze repetities en onze dirigent."
+description: Lees meer over {{< var koornaam >}}, ons zangkoor in {{< var plaats >}}, ons repertoire, onze repetities en onze dirigent."
 ---
 
 # Over {{< var koornaam >}}
