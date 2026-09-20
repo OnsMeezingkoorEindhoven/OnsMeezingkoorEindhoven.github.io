@@ -18,7 +18,7 @@ description: Lees meer over {{< var koornaam >}}, ons zangkoor in {{< var plaats
 
 :::
 
-<img src="images/dirigent.jpg" alt="Dirigent {{< var dirigent >}}" class="portrait-image">
+<img src="images/dirigent.jpg" alt="Dirigent {{< var dirigent >}}" class="landscape-image">
 
 ::: {.callout-note appearance="simple"}
 ## Nieuwsgierig geworden?
