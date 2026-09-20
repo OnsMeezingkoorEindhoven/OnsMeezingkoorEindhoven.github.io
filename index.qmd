@@ -15,7 +15,7 @@ page-layout: full
 :::
 
 ::: {.hero-photo}
-<img src="images/groepsfoto.jpg" alt="Groepsfoto van {{< var koornaam >}}" class="hero-image">
+<img src="images/groepsfoto.jpg" alt="Groepsfoto van {{< var koornaam >}}" class="landscape-image">
 :::
 :::
 
