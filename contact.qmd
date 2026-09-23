@@ -1,6 +1,4 @@
 ---
-Dus wil je een keer meezingen, heb je een vraag over een optreden of wil je contact met het bestuur? Stuur ons gerust een bericht.
-
 ::: {.contact-grid}
 ::: {.contact-card}
 ## Contactgegevens
