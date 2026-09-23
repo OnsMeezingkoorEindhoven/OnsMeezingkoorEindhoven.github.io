@@ -1,9 +1,5 @@
 ---
 title: "Contact"
-description: "Neem contact op met {{< var koornaam >}} in {{< var plaats >}} over meezingen, concerten of andere vragen."
----
-
-# Contact
 
 Wil je een keer meezingen, heb je een vraag over een optreden of wil je contact met het bestuur? Stuur ons gerust een bericht.
 
