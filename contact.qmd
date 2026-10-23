@@ -1,4 +1,3 @@
----
 ::: {.contact-grid}
 ::: {.contact-card}
 ## Contactgegevens
